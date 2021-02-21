@@ -7,11 +7,19 @@ Just Copy the Scr Folder in your React-Native-App  and replace the Files and Ins
 
 
 React- Npm install "Following List "
+
 react-https-redirect
+
 react-bootstrap
+
 react-device-detect
+
 react-dom
+
 react-ga
+
 react-router-dom
+
 react-script
+
 react-snap
